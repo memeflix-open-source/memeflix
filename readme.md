@@ -11,18 +11,6 @@ Memeflix offers a powerful plugin system that allows developers to extend and cu
 # API Refference & Plugin Development
 Documentation not exists yet. Memeflix Developers page is a planned task.
 
-# Daily Monetization ( Coming Soon! )
-
-Every day, Memeflix shares a portion of its income with the community, demonstrating our commitment to giving back. The income is derived from ad revenue and distributed as follows:
-
-- **40%** goes to our valued partner creators who contribute their exceptional content.
-- **30%** is allocated to support the ongoing growth and development of Memeflix.
-- **10%** is dedicated to the licensing of materials featured in our content.
-- **10%** is allocated to reward the hard work and dedication of our talented developers and contributors. If the developed plugin is not free, than **0%**.
-- The remaining **10%** is shared with our helpful community members who contribute to the success of Memeflix.
-
-We are committed to continually enhancing our systems to ensure fair distribution of monetization.
-
 # Other Resources
 
 # Mission

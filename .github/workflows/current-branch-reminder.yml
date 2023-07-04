@@ -1,0 +1,25 @@
+name: Update Readme for Main Branch
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Update Readme
+        run: |
+          echo "This is the Main branch, the development branch of Memeflix. Feel free to contribute by submitting pull requests or opening issues. If you are developing plugins, please check the stable branch for the latest stable version of the plugin API." > README.md
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add README.md
+          git commit -m "Update README for Main Branch"
+          git push

@@ -1,8 +1,3 @@
-{#ifbranch main}
-This is the Main branch, the development branch of Memeflix. Feel free to contribute by submitting pull requests or opening issues. If you are developing plugins, please check the stable branch for the latest stable version of the plugin API.
-{/ifbranch}
-
-
 # About
 Memeflix is an open-source social media platform for watching and sharing funny video memes. The project is designed to support creators, and make people laugh.
 

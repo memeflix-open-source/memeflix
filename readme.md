@@ -1,6 +1,6 @@
-{{#ifbranch main}}
+{#ifbranch main}
 This is the Main branch, the development branch of Memeflix. Feel free to contribute by submitting pull requests or opening issues. If you are developing plugins, please check the stable branch for the latest stable version of the plugin API.
-{{/ifbranch}}
+{/ifbranch}
 
 
 # About

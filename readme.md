@@ -25,7 +25,7 @@ We are committed to continually enhancing our systems to ensure fair distributio
 
 # Other Resources
 
-# Memeflix Goals
+# Mission
 
 - Supporting meme creators. 
     
